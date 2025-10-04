@@ -5,7 +5,7 @@ AI-powered Cloudflare Worker code generator built with Llama 3.3. Describe what 
 
 ## Live Demo
 
-🚀 **[Try it live](#)** *(Add your deployed URL here after deployment)*
+🚀 **[Try it live](https://cf-ai-worker-wizard.rahulranjith369.workers.dev)**
 
 ## Features
 
@@ -84,7 +84,7 @@ cf_ai_worker_wizard/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/cf_ai_worker_wizard.git
+   git clone https://github.com/Ranjith36963/cf_ai_worker_wizard.git
    cd cf_ai_worker_wizard
    ```
 
