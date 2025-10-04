@@ -1,0 +1,19 @@
+name = "cf-ai-worker-wizard"
+main = "src/index.js"
+compatibility_date = "2024-10-01"
+workers_dev = false
+account_id = "838bd21ec6f8230759a2069ffe0aa51a"
+
+[site]
+bucket = "./public"
+
+[ai]
+binding = "AI"
+
+[[durable_objects.bindings]]
+name = "CONVERSATIONS"
+class_name = "ConversationState"
+
+[[migrations]]
+tag = "v1"
+new_classes = ["ConversationState"]
