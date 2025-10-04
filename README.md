@@ -126,7 +126,7 @@ Try these example prompts:
 2. **Access your live app**
    After deployment, Wrangler outputs your live URL:
    ```
-   https://cf-ai-worker-wizard.YOUR_SUBDOMAIN.workers.dev
+   https://cf-ai-worker-wizard.rahulranjith369.workers.dev/
    ```
 
 ### Configuration
